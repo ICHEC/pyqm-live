@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+
+chapters:
+- file: pyqm-week1/README.md
+- file: pyqm-week2/README.md
+- file: pyqm-week3/README.md
+- file: pyqm-week4/README.md
+- file: pyqm-week5/README.md
+- file: pyqm-week6/README.md
