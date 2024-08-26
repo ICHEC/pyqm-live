@@ -40,6 +40,10 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
+# for better performance:
+# jupyterlite_core/addons/base.py:294: UserWarning: install libarchive-c for better performance when working with archives
+libarchive-c
+
 # Python: plotting libraries (optional)
 # plotly>=5,<6
 # bqplot
